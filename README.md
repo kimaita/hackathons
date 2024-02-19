@@ -1,2 +1,3 @@
-# hackathons
+# Hackathons
+
 Repo for hackathon projects.
